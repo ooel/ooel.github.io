@@ -1422,12 +1422,13 @@ form textarea {
   .hero .hero-content {
     color: white; }
     .hero .hero-content span {
-      padding: 10px;
-      background-color: #b23d3d;
-      display: inline-block;
-      margin-bottom: 10px;
-      font-size: 20px;
-      font-size: 1.25em; }
+      padding: 5px;
+      background-color: ;
+      display: ;
+      margin-bottom: 5px;
+      font-size: 30px;
+      font-size: 2.0em;
+      font-weight: 900; }
   .hero .button, .hero form input[type="submit"], form .hero input[type="submit"], .hero form button, form .hero button, .hero form input[type="reset"], form .hero input[type="reset"] {
     background: #303236;
     font-size: 20px;
